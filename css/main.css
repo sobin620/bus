@@ -446,7 +446,7 @@ header .brand{
 .tag {
   margin-right: 8px;
   color: var(--blue);
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .date {
